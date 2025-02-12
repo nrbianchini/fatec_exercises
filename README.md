@@ -1,3 +1,3 @@
 # fatec_exercises
 
-exercícios em c e/ou c++ do curso de análise e desenvolvimento de sistemas da fatec ourinhos.
+this repository contains programming exercises in C and C++, covering fundamental concepts such as variables, control structures, functions, recursion, pointers, dynamic memory allocation, and various data structures like stacks, queues, and linked lists.
